@@ -14,34 +14,41 @@
 
 <div>
     <h3 align="center">Team Members:</h3>
-    </div>
+</div>
 <div>
-     <table align="center">
+    <table align="center">
         <tr>
+            <th style="text-align:center;">UserName (GitHub)</th>
             <th style="text-align:center;">Member</th>
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
+            <td>Brunex03</td>
             <td>Cordova Arias, Luis Alberto</td>
             <td>U202311318</td>
         </tr>
         <tr>
+            <td>JEF-prog26</td>
             <td>Flores Villaverde, Joseph Eduardo</td>
             <td>U20231B368</td>
         </tr>
         <tr>
+            <td>DilanAnton</td>
             <td>Garcia Levano, Dilan Antoni</td>
             <td>U202312076</td>
         </tr>
         <tr>
+            <td>Dragonsupremo01</td>
             <td>Minchola Sal y Rosas, Bruno Gabriel</td>
             <td>U202312076</td>
         </tr>
-         <tr>
+        <tr>
+            <td>nOOmzzzz</td>
             <td>Montalvo Vásquez, Bruno Rodrigo</td>
             <td>U202111529</td>
         </tr>
-          <tr>
+        <tr>
+            <td>TartaroZ</td>
             <td>Ordoñez Ricaldi, Axel Randall</td>
             <td>U202216827</td>
         </tr>
@@ -51,7 +58,6 @@
 <p align="center">
     <strong>Agosto 2024</strong>
 </p>
-
 <br>
 
 # Project Report 
