@@ -55,6 +55,18 @@
 <br>
 
 # Project Report 
+# Startup Profile
+
+## Descripción de la Startup
+
+**PortalTech** es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), pertenecientes a la Facultad de Ingeniería. Esta empresa está orientada en diseñar innovadoras herramientas tecnológicas para ayudar a los ciudadanos peruanos a hacer seguimiento a la gestión del estado, es por ello que nos enorgullecemos en presentar **OjoCiudadano**, una plataforma virtual en donde podrán hacer seguimiento al progreso de las obras públicas. Esto permitirá a los ciudadanos denunciar posibles irregularidades.
+
+### Misión
+Facilitar plataformas digitales de libre acceso a información del estado para ciudadanos que deseen realizar seguimiento o vigilancia para prevenir irregularidades.
+
+### Visión
+Ser reconocidos como una empresa líder en el desarrollo de plataformas digitales que faciliten la participación ciudadana en el control y seguimiento de la gestión pública, donde cada ciudadano tenga un rol activo en la construcción de un país más justo y desarrollado.
+
 ## Segmentos Objetivo
 
 | **Tipo de usuario**                                   | **Geográfico**                                              | **Psicográfico**                                                                                                                   | **Demográfico**                                                                                                                                                      |
