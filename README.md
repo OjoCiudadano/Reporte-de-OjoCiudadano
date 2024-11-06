@@ -2,14 +2,14 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source - SW54</strong><br>
-    <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
+    <strong>Ingeniería de Sistemas</strong><br>
+    <strong>IHC y Tecnologias Moviles - SX42</strong><br>
+    <strong>Profesor: Juan Carlos Morales Arevalo</strong><br>
     <br>INFORME
 </p>
 <p align="center">
-    <strong>Startup: ArtCollab </strong><br>
-    <strong>Producto: ArtCollab </strong>
+    <strong>Startup: PortalTech </strong><br>
+    <strong>Producto: OjoCiudadano </strong>
 </p>
 
 <div>
@@ -22,34 +22,34 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Amaro Villanueva, Camila Elena</td>
-            <td>U202114248</td>
+            <td>Cordova Arias, Luis Alberto</td>
+            <td>U202311318</td>
         </tr>
         <tr>
-            <td>Jave Diaz, Mathias Alejandro</td>
-            <td> U202212721</td>
+            <td>Flores Villaverde, Joseph Eduardo</td>
+            <td>U20231B368</td>
         </tr>
         <tr>
-            <td>Huilca Chipana, Gustavo</td>
-            <td>U202213983</td>
+            <td>Garcia Levano, Dilan Antoni</td>
+            <td>U202312076</td>
         </tr>
         <tr>
-            <td>Luna Capuñay, Italo D'Alessandro</td>
-            <td>U202213375</td>
+            <td>Minchola Sal y Rosas, Bruno Gabriel</td>
+            <td>U202312076</td>
         </tr>
          <tr>
-            <td>Cuadros Rodriguez, Juan Alejandro</td>
-            <td>U20221A359</td>
+            <td>Montalvo Vásquez, Bruno Rodrigo</td>
+            <td>U202111529</td>
         </tr>
           <tr>
-            <td>Alvarez Araguache, Samira Jetzabel</td>
-            <td>U20211A046</td>
+            <td>Ordoñez Ricaldi, Axel Randall</td>
+            <td>U202216827</td>
         </tr>
     </table>
 </div>
 
 <p align="center">
-    <strong>Marzo 2024</strong>
+    <strong>Agosto 2024</strong>
 </p>
 
 <br>
