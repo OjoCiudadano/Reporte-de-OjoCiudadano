@@ -23,7 +23,7 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Brunex03</td>
+            <td>Dragonsupremo01</td>
             <td>Cordova Arias, Luis Alberto</td>
             <td>U202311318</td>
         </tr>
@@ -38,17 +38,17 @@
             <td>U202312076</td>
         </tr>
         <tr>
-            <td>Dragonsupremo01</td>
+            <td>Brunex03</td>
             <td>Minchola Sal y Rosas, Bruno Gabriel</td>
             <td>U202312076</td>
         </tr>
         <tr>
-            <td>nOOmzzzz</td>
+            <td>TartaroZ</td>
             <td>Montalvo Vásquez, Bruno Rodrigo</td>
             <td>U202111529</td>
         </tr>
         <tr>
-            <td>TartaroZ</td>
+            <td>nOOmzzzz</td>
             <td>Ordoñez Ricaldi, Axel Randall</td>
             <td>U202216827</td>
         </tr>
