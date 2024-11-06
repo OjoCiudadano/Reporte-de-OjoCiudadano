@@ -67,6 +67,13 @@ Facilitar plataformas digitales de libre acceso a información del estado para c
 ### Visión
 Ser reconocidos como una empresa líder en el desarrollo de plataformas digitales que faciliten la participación ciudadana en el control y seguimiento de la gestión pública, donde cada ciudadano tenga un rol activo en la construcción de un país más justo y desarrollado.
 
+# Solution Profile
+
+**OjoCiudadano** es una plataforma digital diseñada para abordar el creciente problema de la falta de transparencia en la administración pública relacionada con la ejecución de obras en el Perú. Esta solución de **PortalTech** tiene como objetivo principal proporcionar a la ciudadanía una herramienta fácil de usar que les permita acceder a la información detallada sobre los proyectos que se están realizando, pudiendo conocer el avance, presupuesto y cronograma.
+
+El alcance de este proyecto es desarrollar y lanzar **OjoCiudadano**, una plataforma digital accesible y transparente, que permitirá a los ciudadanos peruanos hacer seguimiento en tiempo real al progreso de las obras públicas, monitorear el uso de los recursos del estado, y denunciar posibles irregularidades. Al facilitar el acceso a la información, buscamos que la ciudadanía pueda hacer seguimiento a la ejecución y manejo del presupuesto por parte de las autoridades en obras de interés público.
+
+
 ## Segmentos Objetivo
 
 | **Tipo de usuario**                                   | **Geográfico**                                              | **Psicográfico**                                                                                                                   | **Demográfico**                                                                                                                                                      |
