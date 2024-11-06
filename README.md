@@ -57,8 +57,6 @@
 # Project Report 
 ## Segmentos Objetivo
 
-## Segmentos Objetivo
-
 | **Tipo de usuario**                                   | **Geográfico**                                              | **Psicográfico**                                                                                                                   | **Demográfico**                                                                                                                                                      |
 |-------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Ciudadanos del Perú**                               | Nacionalidad: Peruana. <br> Zona geográfica: Rural y Urbana | - Quieren conocer cómo las autoridades manejan el dinero destinado a obras en su localidad y a nivel nacional. <br> - Esperan que se cumpla con los plazos y el presupuesto acordado. <br> - Desean que la mayoría de las obras sean culminadas. | - Sexo: Masculino y femenino. <br> - Edades: Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+). <br> - Nivel de educación: Desde educación básica hasta educación superior. <br> - Nivel socioeconómico: Clase baja, media y alta. <br> - Ocupación: Trabajadores, emprendedores, profesionales, estudiantes o jubilados. |
